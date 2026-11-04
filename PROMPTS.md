@@ -84,3 +84,4 @@ The image belongs to the same realistic cinematic film sequence. Use the same ma
 
 Storyboard visual style: storyboard-style composite image, multiple realistic cinematic film panels, clear left-to-right and top-to-bottom progression, same civilian observer or investigative figure when relevant, investigative thriller atmosphere, documentary realism, serious political drama, ARRI Alexa 35 look, 35mm or 50mm cinema lens, dramatic practical lighting, shallow depth of field, natural film grain, muted color grading, cold blue shadows with warm amber highlights, realistic textures, high resolution, no artificial gloss, no fantasy elements, aspect ratio 4:5.
 ```
+
